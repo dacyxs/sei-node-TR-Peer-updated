@@ -1,3 +1,4 @@
 # sei-node-TR-Peer-updated
 Peer Update try
-wget -q -O sei-kur.sh https://raw.githubusercontent.com/dacxys/sei-node-TR-Peer-updated/sei-kur.sh && chmod +x sei-kur.sh && sudo /bin/bash sei-kur.sh
+<br>
+wget -q -O sei-kur.sh https://raw.githubusercontent.com/dacyxs/sei-node-TR-Peer-updated/main/sei-kur.sh && chmod +x sei-kur.sh && sudo /bin/bash sei-kur.sh
